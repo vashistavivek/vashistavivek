@@ -8,19 +8,18 @@
 
 ## Tools and Technologies
 ![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=1A1B27)
-![](https://img.shields.io/badge/-ReactJs-informational?style=flat&logo=react&logoColor=blue&color=1A1B27)
+![](https://img.shields.io/badge/-ReactJS-informational?style=flat&logo=react&logoColor=blue&color=1A1B27)
 ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=pink&color=1A1B27)
-![](https://img.shields.io/badge/-NextJs-informational?style=flat&logo=vercel&logoColor=white&color=1A1B27)
+![](https://img.shields.io/badge/-NextJS-informational?style=flat&logo=vercel&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-MaterialUI-informational?style=flat&logo=materialui&logoColor=blue&color=1A1B27)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=1A1B27)
-![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=mysql&logoColor=blue&color=1A1B27)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mysql&logoColor=blue&color=1A1B27)
 ![](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=red&color=1A1B27)
 ![](https://img.shields.io/badge/-WebAPIs-informational?style=flat&logo=rest&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=orange&color=1A1B27)
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=shell&logoColor=orange&color=1A1B27)
 ![](https://img.shields.io/badge/-Basic_Webpack-informational?style=flat&logo=webpack&logoColor=steelblue&color=1A1B27)
-![](https://img.shields.io/badge/-nginx-informational?style=flat&logo=nginx&logoColor=green&color=1A1B27)
 ![](https://img.shields.io/badge/-WebStorm-informational?style=flat&logo=webstorm&logoColor=skyblue&color=1A1B27)
 
 ## Projects I worked @ s759labs
