@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Sharma.
-- 👨‍💻 I’m currently working as full stack engineer at [s759labs](https://s759labs.com) (Stealth mode startup).
-- ✌  2nd employee at [s759labs](https://s759labs.com) (Stealth mode startup) and have 1 year experience in the same.
+- 👨‍💻 I’m currently working as full stack engineer.
+- ✌  1+ year experience.
 - 👀 I’m interested in Frontend/Web Development.
 - 🦾 I'm skilled in Javascript, ReactJS, Redux, Material-UI, NextJS, CSS, HTML, Java, SQL, Redis(Cache).
 - 👨‍🎓 B.Tech in computer science at AKTU - 2020 Passout.
@@ -25,7 +25,6 @@
 ## Projects I worked @ s759labs
 - [SkillCounty.com](https://skillcounty.com)
 - [JobLe.in](https://joble.in)
-- [Assessments](https://www.skillcounty.com/)
 
 ## Online Presence
 [![Vivek Sharma](https://img.shields.io/badge/-vivekvashista-informational?style=flat&logo=linkedin&logoColor=white&color=1A1B27)](https://www.linkedin.com/in/vivekvashista)
