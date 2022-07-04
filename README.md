@@ -24,9 +24,10 @@
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=orange&color=1A1B27)
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=1A1B27)
 
-## Projects I worked @ s759labs
+## Projects I worked on @Job
 - [SkillCounty.com](https://skillcounty.com)
 - [JobLe.in](https://joble.in)
+- [EyeMyEye](https://eyemyeye.com)
 
 ## Online Presence
 [![Vivek Sharma](https://img.shields.io/badge/-vivekvashista-informational?style=flat&logo=linkedin&logoColor=white&color=1A1B27)](https://www.linkedin.com/in/vivekvashista)
