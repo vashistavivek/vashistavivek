@@ -2,7 +2,7 @@
 - 👨‍💻 I’m currently working as full stack engineer.
 - ✌  2 years of experience.
 - 👀 Explored myself and found more interest towards Backend Development.
-- 🦾 I'm skilled in Java, Python, Django, PostgreSQL, Redis, MongoDB.
+- 🦾 I'm skilled in Java, Python, Spring, Django, PostgreSQL, Redis, MongoDB, ElasticSearch.
 - 🦾 I'm also skilled in Javascript, ReactJS, Redux, NextJS, CSS, HTML.
 - 👨‍🎓 B.Tech in computer science at AKTU - 2020 Passout.
 - 📫 How to reach me [offvivek524@gmail.com](mailto:offvivek524@gmail.com)
