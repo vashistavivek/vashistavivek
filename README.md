@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Vivek Sharma.
-- 👨‍💻 I’m currently working as full stack engineer.
-- ✌  2 years of experience.
-- 👀 Explored myself and found more interest towards Backend Development.
+- 👨‍💻 I’m currently working as Software Engineer - Backend.
+- ✌  2+ years of experience.
 - 🦾 I'm skilled in Java, Python, Spring, Django, PostgreSQL, Redis, MongoDB, ElasticSearch.
-- 🦾 I'm also skilled in Javascript, ReactJS, Redux, NextJS, CSS, HTML.
+- 🦾 I'm also have worked on Javascript, ReactJS, Redux, CSS.
 - 👨‍🎓 B.Tech in computer science at AKTU - 2020 Passout.
 - 📫 How to reach me [offvivek524@gmail.com](mailto:offvivek524@gmail.com)
 
@@ -26,7 +25,6 @@
 
 ## Projects I worked on @Job
 - [SkillCounty.com](https://skillcounty.com)
-- [JobLe.in](https://joble.in)
 - [EyeMyEye](https://eyemyeye.com)
 
 ## Online Presence
