@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Vivek Sharma.
-- 👨‍💻 I’m currently working as Software Engineer - Backend.
-- ✌  2+ years of experience.
-- 🦾 I'm skilled in Java, Python, Spring, Django, PostgreSQL, Redis, MongoDB, ElasticSearch.
-- 🦾 I'm also have worked on Javascript, ReactJS, Redux, CSS.
+- 👋 Hi there,
+- 👋 Thanks for coming here,
+- 👨‍💻 I’m currently working as SDE - Backend.
+- ✌  3+ years of experience.
+- 🦾 skilled in GO, Java, Python, Django, GORM, PostgreSQL, Redis, MongoDB, ElasticSearch.
+- 🦾 also have understanding of Javascript, CSS.
 - 👨‍🎓 B.Tech in computer science at AKTU - 2020 Passout.
-- 📫 How to reach me [offvivek524@gmail.com](mailto:offvivek524@gmail.com)
+- 📫 Reach out to me [offvivek524@gmail.com](mailto:offvivek524@gmail.com)
 
 ## Tools and Technologies
 
@@ -23,9 +24,10 @@
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=orange&color=1A1B27)
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=1A1B27)
 
-## Projects I worked on @Job
-- [SkillCounty.com](https://skillcounty.com)
+## Projects I worked @ Job
+- [DeHaat](https://dehaat.in)
 - [EyeMyEye](https://eyemyeye.com)
+- [SkillCounty.com](https://skillcounty.com)
 
 ## Online Presence
 [![Vivek Sharma](https://img.shields.io/badge/-vivekvashista-informational?style=flat&logo=linkedin&logoColor=white&color=1A1B27)](https://www.linkedin.com/in/vivekvashista)
