@@ -1,8 +1,7 @@
-- 👋 Hi there,
-- 👋 Thanks for coming here,
-- 👨‍💻 I’m currently working as SDE - Backend.
-- ✌  3+ years of experience.
-- 🦾 skilled in GO, Java, Python, Django, GORM, PostgreSQL, Redis, MongoDB, ElasticSearch.
+- 👋 Hi there, thanks for coming here
+- 👨‍💻 I’m currently working as SDE 2 - Backend.
+- ✌  4 years of experience.
+- 🦾 Skilled in GO, Java, Python, Django, GORM, PostgreSQL, Redis, MongoDB, ElasticSearch.
 - 🦾 also have understanding of Javascript, CSS.
 - 👨‍🎓 B.Tech in computer science at AKTU - 2020 Passout.
 - 📫 Reach out to me [offvivek524@gmail.com](mailto:offvivek524@gmail.com)
